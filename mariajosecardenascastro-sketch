@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "FORTEXA backend inicial"
-git branch -M main
-git remote add origin https://github.com/Tmariajosecardenascastro-sketch/fortexa-backend.git
-git push -u origin main
